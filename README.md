@@ -1,9 +1,7 @@
 # End-to-end machine learning
 Introduction to end-to-end machine learning 
 
-Slides:
-
-* Add slides here
+Slides: https://www.slideshare.net/AlexeyGrigorev/endtoend-introduction-to-machine-learning
 
 
 ## Environment
